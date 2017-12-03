@@ -5,5 +5,9 @@ My implementation of machine learning algorithms in Octave. New code and project
 - Started:  Oct 30 2017
 - Ended:  Currently in progress
   
-# Algorithms
-* Simple Linear Regression
+# Algorithms (In order of completion)
+1) Simple Linear Regression
+2) Multiple Linear Regression (using normal equation)
+3) Multiple Linear Regression (gradient descent and normal equation and comparing the performance)
+3) Logistic Regression
+4) Regularized Logistic Regression with feature mapping
