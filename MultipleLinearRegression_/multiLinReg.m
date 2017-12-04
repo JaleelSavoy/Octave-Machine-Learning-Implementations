@@ -1,4 +1,4 @@
-%%Machine Learning - Multiple Linear Regression with Sample Salary Data (small dataset)
+%%Machine Learning - Multiple Linear Regression with Sample Softdrink Data 
 
 %%%%Initialize
 clear; close all; clc
