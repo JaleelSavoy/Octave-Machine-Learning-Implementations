@@ -1,4 +1,4 @@
-%Machine Learning - Multiple Feature Linear Regression
+%Machine Learning - Multiple Feature Linear Regression using data on concrete samples
   %Using Normal Equation and then Gradient Descent and comparing
 
 %%%%Initialize
