@@ -1,3 +1,6 @@
+%Machine Learning - Multiple Feature Linear Regression
+  %Using Normal Equation and then Gradient Descent and comparing
+
 %%%%Initialize
 clear; close all; clc
 
