@@ -10,4 +10,5 @@ My implementation of machine learning algorithms in Octave. New code and project
 2) Multiple Linear Regression (using normal equation)
 3) Multiple Linear Regression (gradient descent and normal equation and comparing the performance)
 3) Logistic Regression
-4) Regularized Logistic Regression with feature mapping
+4) Logistic Regression  (Regularization) with feature mapping
+5) Neural Network
