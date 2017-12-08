@@ -2,7 +2,7 @@
 My implementation of machine learning algorithms in Octave. New code and projects built using knowledge gained from Andrew Ng's Coursera Machine Learning course in addition to his Stanford CS229 lecture videos.
 
 ## Timeline:
-- Started:  Oct 30 2017
+- Started:  Nov 30 2017
 - Ended:  Currently in progress
   
 ## Algorithms (In order of completion)
